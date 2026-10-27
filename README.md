@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/Website-fajarsyahriar.my.id-e43e46?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fajarsyahriar.my.id/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fajar_Syahriar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajarsyahriar/)
 [![Instagram](https://img.shields.io/badge/Instagram-@fajar__syahriar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fajar_syahriar/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Directly-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895636034408?text=Salam%20kenal%20Fajar%2C%20saya%20menghubungi%20Anda%20melalui%20GitHub.)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-wa.me%2Ffajar.syahriar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/fajar.syahriar)
 
 [![YouTube](https://img.shields.io/badge/YouTube-@fajarsyahriar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@fajarsyahriar)
 [![X / Twitter](https://img.shields.io/badge/X-@fajarsyahriar-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/fajarsyahriar/)
@@ -93,9 +93,9 @@ Apakah Anda memiliki proyek website baru, ingin mengaudit dan mempercepat websit
 | 🐦 **X (Twitter)** | [@fajarsyahriar](https://x.com/fajarsyahriar/) | Pemikiran seputar tech, SEO, & digital marketing |
 | 📘 **Facebook** | [facebook.com/fajar.syahriar](https://www.facebook.com/fajar.syahriar/) | Jaringan komunitas & koneksi sosial |
 | 📌 **Pinterest** | [pinterest.com/fajarsyahriar](https://id.pinterest.com/fajarsyahriar/) | Kurasi ide desain, moodboard & visual art |
-| 💬 **WhatsApp** | [+62 895-6360-34408](https://wa.me/62895636034408) / [+62 821-2221-7709](https://wa.me/6282122217709) | Konsultasi cepat & diskusi proyek |
+| 💬 **WhatsApp** | [wa.me/fajar.syahriar](https://wa.me/fajar.syahriar) / [+62 895-6360-34408](https://wa.me/62895636034408) | Konsultasi cepat & diskusi proyek |
 | 📧 **Email** | [kontak@fajarsyahriar.my.id](mailto:kontak@fajarsyahriar.my.id) | Surat resmi & penawaran kolaborasi |
-| 📍 **Domisili** | Jakarta Barat, DKI Jakarta, Indonesia | Basis operasional |
+| 📍 **Domisili** | Kembangan, Jakarta Barat, DKI Jakarta, Indonesia | Basis operasional |
 
 <div align="center">
   <sub>© 2026 Fajar Syahriar. Dibuat dengan presisi teknis dan performa tanpa kompromi.</sub>
