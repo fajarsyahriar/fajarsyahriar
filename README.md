@@ -10,6 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-kontak@fajarsyahriar.my.id-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontak@fajarsyahriar.my.id)
 
 [![Instagram](https://img.shields.io/badge/Instagram-@fajar__syahriar-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fajar_syahriar/)
+[![TikTok](https://img.shields.io/badge/TikTok-@fajar.syahriar-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@fajar.syahriar)
 [![YouTube](https://img.shields.io/badge/YouTube-@fajarsyahriar-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@fajarsyahriar)
 [![X / Twitter](https://img.shields.io/badge/X-@fajarsyahriar-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/fajarsyahriar/)
 [![Facebook](https://img.shields.io/badge/Facebook-fajar.syahriar-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/fajar.syahriar/)
@@ -104,6 +105,7 @@ Ingin membangun website berkinerja tinggi baru, mengaudit dan memulihkan perform
 | 📧 **Email Resmi** | [kontak@fajarsyahriar.my.id](mailto:kontak@fajarsyahriar.my.id) | Surat resmi, brief proyek, & proposal |
 | 💼 **LinkedIn** | [linkedin.com/in/fajarsyahriar](https://www.linkedin.com/in/fajarsyahriar/) | Jejaring karier & profil profesional |
 | 📸 **Instagram** | [@fajar_syahriar](https://www.instagram.com/fajar_syahriar/) | Portofolio visual & update personal |
+| 🎵 **TikTok** | [@fajar.syahriar](https://www.tiktok.com/@fajar.syahriar) | Video edukasi, insight bisnis & personal branding |
 | 🎥 **YouTube** | [@fajarsyahriar](https://www.youtube.com/@fajarsyahriar) | Dokumentasi multimedia & eksplorasi video |
 | 🐦 **X (Twitter)** | [@fajarsyahriar](https://x.com/fajarsyahriar/) | Wawasan industri teknologi, SEO, & web |
 | 📘 **Facebook** | [facebook.com/fajar.syahriar](https://www.facebook.com/fajar.syahriar/) | Profil sosial & komunitas |
