@@ -14,6 +14,7 @@
 [![X / Twitter](https://img.shields.io/badge/X-@fajarsyahriar-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/fajarsyahriar/)
 [![Facebook](https://img.shields.io/badge/Facebook-fajar.syahriar-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/fajar.syahriar/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-fajarsyahriar-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://id.pinterest.com/fajarsyahriar/)
+[![Kompasiana](https://img.shields.io/badge/Kompasiana-fajarsyahriar9416-005B96?style=flat-square&logo=blogger&logoColor=white)](https://www.kompasiana.com/fajarsyahriar9416)
 
 <br/>
 
@@ -107,6 +108,7 @@ Ingin membangun website berkinerja tinggi baru, mengaudit dan memulihkan perform
 | 🐦 **X (Twitter)** | [@fajarsyahriar](https://x.com/fajarsyahriar/) | Wawasan industri teknologi, SEO, & web |
 | 📘 **Facebook** | [facebook.com/fajar.syahriar](https://www.facebook.com/fajar.syahriar/) | Profil sosial & komunitas |
 | 📌 **Pinterest** | [pinterest.com/fajarsyahriar](https://id.pinterest.com/fajarsyahriar/) | Moodboard kreatif & kurasi desain grafis |
+| ✍️ **Kompasiana** | [kompasiana.com/fajarsyahriar9416](https://www.kompasiana.com/fajarsyahriar9416) | Artikel opini, jurnalisme warga & literasi digital |
 | 📍 **Lokasi** | Jakarta Barat, DKI Jakarta, Indonesia | Basis operasional |
 
 <br/>
